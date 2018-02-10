@@ -1,0 +1,2 @@
+module AnaisHelper
+end
